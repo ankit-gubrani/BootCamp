@@ -1,9 +1,6 @@
 <html>
 <body>
 <h2>Hello World!</h2>
-<%
-    String name =(String)request.getAttribute("name");
-%>
-<span><%= name %></span>
+<h3>Welcome To IG Bootcamp</h3>
 </body>
 </html>
